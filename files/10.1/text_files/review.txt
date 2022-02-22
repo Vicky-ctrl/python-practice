@@ -1,0 +1,4 @@
+In Python you can read a file
+In Python you can print what you want
+In Python you can loop
+
